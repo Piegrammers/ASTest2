@@ -93,5 +93,11 @@
             android:text="   Don't have an account? Register here!"
             android:textColor="#ffffff"
             android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
     </LinearLayout>
 </LinearLayout>
